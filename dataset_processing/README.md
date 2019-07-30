@@ -1,3 +1,5 @@
+## Steps for data preprocessing
+
 1. Process the raw dataset using "run.m"
 
 2. Process the processed dataset to get weight matrices for row and column
