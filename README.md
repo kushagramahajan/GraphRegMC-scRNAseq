@@ -7,7 +7,7 @@ Work done as part of final course project of Collaborative Filtering by -
 3. Gursimran Singh (gursimran14041@iiitd.ac.in)
 
 ### Drive Link 
-https://drive.google.com/drive/folders/13ZS2S9FzWtVlJH_4icCGXZQKjx7iNKs9?usp=sharing
+https://drive.google.com/drive/folders/1ddd8MnqRMeSmJROBkO5u7LN3V9we8gl6?usp=sharing
 
 ### Code Structure
 
